@@ -2,8 +2,6 @@
 
 Estructura Profesional Moderna (Express + MVC + Clean Architecture)
 
-![npm](https://img.shields.io/npm/v/create-express-pro-mvc)
-
 Generador de proyectos **Express.js** con estructura profesional basado en el Patrón de Diseño **MVC**,
 separación por capas, lista para escalar, testear y mantener fácilmente.
 Ideal para desarrollo profesional con Node.js.
@@ -113,7 +111,3 @@ Podés abrir un issue en el repositorio o contactarme por GitHub.
 https://github.com/YoElDante/express-pro-mvc
 
 😄 ¡Estoy feliz de compartir este generador con la comunidad!
-
-```
-
-```
