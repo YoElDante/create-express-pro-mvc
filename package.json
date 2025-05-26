@@ -1,0 +1,23 @@
+{
+  "name": "create-express-pro-mvc",
+  "version": "1.0.0",
+  "description": "CLI para crear proyectos Express con estructura profesional MVC",
+  "main": "create-express-pro-mvc.mjs",
+  "type": "module",
+  "bin": {
+    "create-express-pro-mvc": "create-express-pro-mvc.mjs"
+  },
+  "keywords": [
+    "express",
+    "mvc",
+    "cli",
+    "scaffold"
+  ],
+  "author": "Dante Marcos Delprato",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.0.0"
+  }
+}
