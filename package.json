@@ -1,6 +1,6 @@
 {
   "name": "create-express-pro-mvc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI para crear proyectos Express con estructura profesional MVC",
   "main": "create-express-pro-mvc.mjs",
   "type": "module",
