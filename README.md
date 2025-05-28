@@ -99,6 +99,14 @@ npm prettier    # Setea los archivos del Proyecto con Prettier
 
 ---
 
+## 🌎 Publicacion en NPM
+
+Podes visitar este proyecto en la web oficial de npm en
+
+https://www.npmjs.com/package/create-express-pro-mvc
+
+---
+
 ## 📜 Licencia
 
 MIT License - © 2025 Dante Marcos Delprato
